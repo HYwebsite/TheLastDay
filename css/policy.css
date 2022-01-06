@@ -1,0 +1,57 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.bannerzone{
+    background-color: blanchedalmond;
+}
+
+.banner{
+   
+    height: 300px;
+   /* width: 1200px;*/
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/bg_1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+/*
+    position: absolute;
+    left:50%;
+    margin-left:-600px;
+    margin-top: 10px;*/
+}
+
+.Text_title{
+    width: 1200px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+ /*   position: absolute;
+    left: 50%;
+    margin-left: -600px;
+    margin-top: 330px;
+    */
+    font-size: 30px;
+}
+
+.Text_content{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 200px;
+    /*position: absolute;
+    left: 50%;
+    margin-left: -600px;
+    margin-top: 400px;*/
+    font-size:18px;
+
+}
